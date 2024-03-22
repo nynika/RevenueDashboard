@@ -6,3 +6,7 @@ autocorrect-2.6.1
 
 
 # run command       streamlit run app.py
+
+
+
+config.toml file is under .streamlit folder so create a new folder and create a file config.toml
